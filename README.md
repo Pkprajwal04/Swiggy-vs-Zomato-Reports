@@ -12,3 +12,6 @@ Key Features:
 📉 Insight generation and business recommendations
 
 🧠 Predictive modeling 
+
+Screenshots / Demos
+Example: https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Home%20page%20of%20Dashboard.png
