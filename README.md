@@ -15,3 +15,4 @@ Key Features:
 
 Screenshots / Demos
 Example: https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Home%20page%20of%20Dashboard.png
+https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Snapshot%20of%20Swiggy%20Dashboard.png
