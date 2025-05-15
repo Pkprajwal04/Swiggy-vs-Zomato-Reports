@@ -70,6 +70,5 @@ For questions, feedback, or collaboration:
 
 ## ScreenShots
 ![Alt text](https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Home%20page%20of%20Dashboard.png)
-![Alt text](https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Home%20page%20of%20Dashboard.png)
 ![Alt text](https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Snapshot%20of%20Swiggy%20Dashboard.png)
 
