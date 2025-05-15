@@ -68,3 +68,6 @@ For questions, feedback, or collaboration:
 - 📧 prajwalkamaradgi@gmail.com
 - 🔗 https://www.linkedin.com/in/prajwal-kamaradgi-4a78432b3
 
+## ScreenShots
+![Alt text](https://github.com/Pkprajwal04/Swiggy-vs-Zomato-Reports/blob/main/Home%20page%20of%20Dashboard.png)
+
